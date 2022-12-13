@@ -1,0 +1,14 @@
+PA2_sequino.tar
+data/PA2_wikipedia_sample.zip
+data/PA2_wikipedia.zip
+data/PA2DemoFile_Day2.txt
+doc_count/out.txt
+idf/out.txt
+summarize/out.txt
+test/doc_count/out.txt
+test/idf/out.txt
+test/summarize/out.txt
+test/tf/out.txt
+test/tf_idf/out.txt
+tf/out.txt
+tf_idf/out.txt
